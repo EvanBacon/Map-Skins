@@ -10,8 +10,11 @@ Based on iOS Dark Maps and freedom of map styles.
 
 #### Evan Bacon
 
-😻 http://baconbricks.com/
-🎸 http://codepen.io/EvanBacon/
-🌮 https://www.linkedin.com/in/evan-bacon-10605b58
-🍕 https://twitter.com/baconbricks
-🐶 https://www.facebook.com/Brix-Master-478004325673947/
+* 😻 [Bacon Bricks](http://baconbricks.com/)
+* 🎸 [Code Pen](http://codepen.io/EvanBacon/)
+* 🌮 [LinkedIn](https://www.linkedin.com/in/evan-bacon-10605b58)
+* 🍕 [Twitter](https://twitter.com/baconbricks)
+* 🐶 [Facebook](https://www.facebook.com/Brix-Master-478004325673947/)
+* 📽 [Youtube](https://www.facebook.com/Brix-Master-478004325673947/)
+* 🍳 [EvanBacon.Github.io](https://www.facebook.com/Brix-Master-478004325673947/)
+* 🐸 [Frog Design](https://www.facebook.com/Brix-Master-478004325673947/)
