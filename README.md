@@ -13,6 +13,7 @@
 
 
 Built in Swift 3 🐣 - iOS Custom Dark or Light Maps. Super easy 😍
+This project is an example of how to override the MKTileOverlay to get custom maps. 
 Based on iOS Dark Maps and freedom of map styles.
 
 ## Demo
